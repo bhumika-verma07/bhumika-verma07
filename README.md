@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Bhumika 👋
 
-<!--
-**bhumika-verma07/bhumika-verma07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student
+💻 Currently learning C, C++ and Data Structures & Algorithms
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C
+- C++
+- Data Structures & Algorithms
+- HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Coding Profiles
+- [LeetCode](https://leetcode.com/u/not_your_bug/)
+- [HackkerRank](https://www.hackerrank.com/profile/bhumikaverma7721)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/bhumikaver39d0)
+- [CodeChef](https://www.codechef.com/users/mega_halo_28)
+
+## 🌱 Currently Learning
+- DSA
+- Web Development
+- Git & GitHub
+
+## 📌 Projects
+- Smart Accident Detection & Emergency Alert System
+- More projects coming soon...
