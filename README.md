@@ -7,7 +7,7 @@
 - C
 - C++
 - Data Structures & Algorithms
-- HTML
+- HTML, CSS, JS
 
 ## 💻 Coding Profiles
 - [LeetCode](https://leetcode.com/u/not_your_bug/)
@@ -22,7 +22,7 @@
 
 ## 📌 Projects
 - Smart Accident Detection & Emergency Alert System
-  ## 🔗 Wokwi Simulation
+🔗 Wokwi Simulation
 [▶️ Open Wokwi Simulation](https://wokwi.com/projects/476885206212803585)
 
 - More projects coming soon...
