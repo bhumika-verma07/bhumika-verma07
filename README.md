@@ -22,4 +22,7 @@
 
 ## 📌 Projects
 - Smart Accident Detection & Emergency Alert System
+  ## 🔗 Wokwi Simulation
+[▶️ Open Wokwi Simulation](https://wokwi.com/projects/476885206212803585)
+
 - More projects coming soon...
