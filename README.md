@@ -21,9 +21,19 @@
 - Git & GitHub
 
 ## 📌 Projects
-- **Smart Accident Detection & Emergency Alert System**  
-  An IoT-based accident detection system that uses an ESP32 and MPU6050 sensor to detect potential vehicle accidents. It integrates GPS for location tracking and GSM for sending emergency alerts with location details to enable faster emergency response.  
-  🔗 [Open Wokwi Simulation](https://wokwi.com/projects/476885206212803585)
+- **Smart Accident Detection & Emergency Alert System**
+
+An ESP32-based IoT project that detects possible vehicle accidents using an MPU6050 sensor and initiates an emergency alert workflow with GPS location tracking.
+
+**Tech Stack:** ESP32, C++, MPU6050, GPS (NEO-6M), GSM (SIM800L), Arduino, Wokwi.
+
+- 🔹 Accident detection using motion sensing.
+- 🔹 LED and buzzer warning system.
+- 🔹 10-second alert cancellation mechanism.
+- 🔹 GPS-based location tracking.
+- 🔹 Wokwi simulation of the complete alert workflow.
+
+🔗 [View Source Code on GitHub](https://github.com/bhumika-verma07/Smart-Accident-Detection-System) | [View Wokwi Simulation](https://wokwi.com/projects/476885206212803585)
 
 - **AI Vision – Skill Gap Analyser & Career Navigator**  
   An AI-powered career guidance platform that analyses skill gaps, recommends relevant courses, and generates personalized learning roadmaps.  
