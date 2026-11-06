@@ -21,7 +21,7 @@
 - Git & GitHub
 
 ## 📌 Projects
-- **Smart Accident Detection & Emergency Alert System**
+1. **Smart Accident Detection & Emergency Alert System**
 
 An ESP32-based IoT project that detects possible vehicle accidents using an MPU6050 sensor and initiates an emergency alert workflow with GPS location tracking.
 
@@ -35,11 +35,11 @@ An ESP32-based IoT project that detects possible vehicle accidents using an MPU6
 
 🔗 [View Source Code on GitHub](https://github.com/bhumika-verma07/Smart-Accident-Detection-System) | [View Wokwi Simulation](https://wokwi.com/projects/476885206212803585)
 
-- **AI Vision – Skill Gap Analyser & Career Navigator**  
+2. **AI Vision – Skill Gap Analyser & Career Navigator**  
   An AI-powered career guidance platform that analyses skill gaps, recommends relevant courses, and generates personalized learning roadmaps.  
   🔗 [Live Demo](https://ai-vision-skill-gap-analyser-career-navigator-1.ai.studio/)
 
-- **SafeTrail – Smart Route App**  
+3. **SafeTrail – Smart Route App**  
   A route-based application focused on helping users explore safer travel routes.  
   🔗 [Live Demo](https://safetrail-route-app-0f8d.bolt.host) 
 
