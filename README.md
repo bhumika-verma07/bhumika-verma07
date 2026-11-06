@@ -35,8 +35,8 @@ An ESP32-based IoT project that detects possible vehicle accidents using an MPU6
 
 🔗 [View Source Code on GitHub](https://github.com/bhumika-verma07/Smart-Accident-Detection-System) | [View Wokwi Simulation](https://wokwi.com/projects/476885206212803585)
 
-👥 Team Member
-
+👥 Team Members
+- Bhumika Verma — Project Developer 
 - [Tripti Jangid](https://github.com/triptijangid07) — Project Co-Developer
 
 
