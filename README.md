@@ -21,8 +21,16 @@
 - Git & GitHub
 
 ## 📌 Projects
-- Smart Accident Detection & Emergency Alert System
-🔗 Wokwi Simulation
-[▶️ Open Wokwi Simulation](https://wokwi.com/projects/476885206212803585)
+- **Smart Accident Detection & Emergency Alert System**  
+  An IoT-based accident detection system that uses an ESP32 and MPU6050 sensor to detect potential vehicle accidents. It integrates GPS for location tracking and GSM for sending emergency alerts with location details to enable faster emergency response.  
+  🔗 [Open Wokwi Simulation](https://wokwi.com/projects/476885206212803585)
+
+- **AI Vision – Skill Gap Analyser & Career Navigator**  
+  An AI-powered career guidance platform that analyses skill gaps, recommends relevant courses, and generates personalized learning roadmaps.  
+  🔗 [Live Demo](https://ai-vision-skill-gap-analyser-career-navigator-1.ai.studio/)
+
+- **SafeTrail – Smart Route App**  
+  A route-based application focused on helping users explore safer travel routes.  
+  🔗 [Live Demo](https://safetrail-route-app-0f8d.bolt.host) 
 
 - More projects coming soon...
