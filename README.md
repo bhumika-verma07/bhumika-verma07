@@ -21,7 +21,7 @@
 - Git & GitHub
 
 ## 📌 Projects
-#1. **Smart Accident Detection & Emergency Alert System**
+1. **Smart Accident Detection & Emergency Alert System**
 
 An ESP32-based IoT project that detects possible vehicle accidents using an MPU6050 sensor and initiates an emergency alert workflow with GPS location tracking.
 
@@ -40,7 +40,7 @@ An ESP32-based IoT project that detects possible vehicle accidents using an MPU6
 - [Tripti Jangid](https://github.com/triptijangid07) — Project Co-Developer
 
 
-#2. **AI Vision – Skill Gap Analyser & Career Navigator**  
+2. **AI Vision – Skill Gap Analyser & Career Navigator**  
 
    An AI-powered career guidance platform that analyses users' skills, identifies skill gaps, recommends relevant learning resources, and generates personalized career development roadmaps using Google Gemini API.
 
@@ -55,7 +55,7 @@ An ESP32-based IoT project that detects possible vehicle accidents using an MPU6
    🔗 [Live Demo](https://ai-vision-skill-gap-analyser-career-navigator-1.ai.studio/)
 
 
-#3. **SafeTrail – Context-Aware Travel Safety Route**
+3. **SafeTrail – Context-Aware Travel Safety Route**
 
 A context-aware travel safety application developed for **Smart India Hackathon (SIH) 2026** under the Tourism theme. It helps users compare alternative travel routes based on contextual safety indicators rather than relying solely on distance and travel time.
 
