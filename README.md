@@ -21,7 +21,7 @@
 - Git & GitHub
 
 ## 📌 Projects
-1. **Smart Accident Detection & Emergency Alert System**
+#1. **Smart Accident Detection & Emergency Alert System**
 
 An ESP32-based IoT project that detects possible vehicle accidents using an MPU6050 sensor and initiates an emergency alert workflow with GPS location tracking.
 
@@ -40,12 +40,34 @@ An ESP32-based IoT project that detects possible vehicle accidents using an MPU6
 - [Tripti Jangid](https://github.com/triptijangid07) — Project Co-Developer
 
 
-2. **AI Vision – Skill Gap Analyser & Career Navigator**  
-  An AI-powered career guidance platform that analyses skill gaps, recommends relevant courses, and generates personalized learning roadmaps.  
-  🔗 [Live Demo](https://ai-vision-skill-gap-analyser-career-navigator-1.ai.studio/)
+#2. **AI Vision – Skill Gap Analyser & Career Navigator**  
 
-3. **SafeTrail – Smart Route App**  
-  A route-based application focused on helping users explore safer travel routes.  
-  🔗 [Live Demo](https://safetrail-route-app-0f8d.bolt.host) 
+   An AI-powered career guidance platform that analyses users' skills, identifies skill gaps, recommends relevant learning resources, and generates personalized career development roadmaps using Google Gemini API.
+
+   **Tech Stack:** React.js, Tailwind CSS, Python, FastAPI, Google Gemini API, PostgreSQL, Redis, Docker.
+
+   - 🤖 AI-powered skill gap analysis and personalized career recommendations.
+   - 📊 Identifies missing skills based on users' career goals and existing skill sets.
+   - 📚 Recommends relevant courses and learning resources to bridge identified skill gaps.
+   - 🗺️ Generates personalized learning roadmaps for structured career development.
+   - ⚡ Integrates Google Gemini API for intelligent analysis and AI-driven recommendations.
+
+   🔗 [Live Demo](https://ai-vision-skill-gap-analyser-career-navigator-1.ai.studio/)
+
+
+#3. **SafeTrail – Context-Aware Travel Safety Route**
+
+A context-aware travel safety application developed for **Smart India Hackathon (SIH) 2026** under the Tourism theme. It helps users compare alternative travel routes based on contextual safety indicators rather than relying solely on distance and travel time.
+
+   **Tech Stack:** OpenStreetMap, TomTom API, Geocoding, Bolt.new.
+
+   - 🗺️ Interactive map visualization with multiple alternative routes.
+   - 📊 Comparative safety scoring (0–100) with contextual risk classification.
+   - 🤖 AI-assisted route recommendations based on available assessment factors.
+   - 🚦 Contextual analysis using historical incident indicators, surrounding activity, open establishments, and public facility proximity.
+   - ⏱️ Route comparison through estimated travel time and distance.
+   - 📍 Assessment confidence indicators with official and community data-source references.
+
+   🔗 [View Live Prototype](https://safetrail-route-app-0f8d.bolt.host) | **SIH 2026 – Team RouteX**
 
 - More projects coming soon...
